@@ -1,0 +1,6 @@
+{
+  "name": "OnboardFlow - Candidate Intake Portal",
+  "description": "Candidate onboarding form with dynamic conditional branching for freshers (graduated vs. pursuing) and experienced professionals, qualifications, department skills selection, and instant record submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
